@@ -1,0 +1,627 @@
+body {
+                
+                    background-color: #fff;
+                    background-image: linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), linear-gradient(#eee .1em, transparent .1em);
+                    background-size: 100% 1.2em;
+                    height: 2000px;
+                    width: 101%;
+                    
+            }
+    
+    
+            #title {
+                
+                    height: 208px;
+                    width: 100%; 
+                    background-image: url(white-cosmos-flower-on-pink-background-vector-21426299.jpg);   
+                    background-size: contain;
+                    border-bottom: 3px solid cadetblue;
+                    margin-right: -3px;
+                    position: absolute;
+                    left: 0px;
+                    top: 1px;
+            }
+            
+            #circle {
+                
+                    width:200px;
+                    height: 150px;
+                    border-radius: 50%;
+                    background-color: white;
+                    opacity: 0.8;
+                    position: absolute;
+                    left: 45%;
+                    top: 30px;
+            }
+            
+            h1{
+                
+                    font-family: 'Caveat', cursive;
+                    font-size: 50px;
+                    line-height: 50px;
+                    color:darksalmon;
+                    -webkit-text-stroke-width:0.2px;
+                    -webkit-text-stroke-color:cadetblue;
+                    position: absolute;
+                    top: 15px;
+                    left: 10px;
+            }
+
+            #html {
+    
+                    position: absolute;
+                    top: 250px;
+                    left: 10px;
+                    background-color: blanchedalmond;
+                    border: none;
+                    color: cadetblue;
+                    font-family: 'Caveat', cursive;
+                
+            }
+
+            #css {
+    
+                    position: absolute;
+                    top: 290px;
+                    left: 5px;
+                    background-color: blanchedalmond;
+                    border: none;
+                    color: cadetblue;
+                    font-family: 'Caveat', cursive;
+                
+            }
+
+            #js {
+    
+                    position: absolute;
+                    top: 328px;
+                    left: 0px;
+                    margin-right: 1px;
+                    background-color: blanchedalmond;
+                    border: none;
+                    color: cadetblue;
+                    font-family: 'Caveat', cursive;
+                
+            }
+            
+            #personalinfo {
+                
+                    position: absolute;
+                    top: 220px;
+                    left: 145px;
+            }
+            
+            #personalinfo p{
+                
+                            font-family: 'Shadows Into Light Two', cursive;
+            }
+            
+            
+            .personalinfo2 {
+                
+                    position: absolute;
+                    top: 300px;
+                    left: 600px;
+            }
+            
+            .personalinfo2 {
+                
+                            font-family: 'Shadows Into Light Two', cursive;
+                            position: absolute;
+                            top: 270px;
+                            left: 850px;
+            }
+            
+            
+            h2 {
+                
+                    font-family: 'Bad Script', cursive;
+                    font-size: 30px;
+                    line-height: 30px;
+                    font-weight:bold;
+                    color: cadetblue;
+                    
+            }
+            
+            #experience {
+                
+                    position: absolute;
+                    top: 500px;
+                    left: 150px;all: 
+            }
+            
+            #experience dl1 {
+                            
+                                width: 500px;
+                                position: absolute;
+            }
+            
+            #experience dl2 {
+                
+                                position: absolute;
+                                left: 400px;
+            }
+            
+            #education {
+                
+                    position: absolute;
+                    top: 800px;
+                    left: 150px; 
+                    font-family: 'Shadows Into Light Two', cursive;
+                    width: 500px;
+            }
+            
+            #skills {
+                
+                    position: absolute;
+                    top: 1000px;
+                    left: 150px;
+                    font-family: 'Shadows Into Light Two', cursive;
+                    width: 500px;
+            }
+            
+            
+            #m {
+                
+                    position: absolute;
+                    top: 80px;
+                    
+            }
+            
+            #m p {
+                    
+                    position: absolute;
+                    left: 48px;
+                    top: -9px;
+            }
+            
+            
+            #m img{
+                
+                    width: 25px;
+                    height: 25px;
+                    position: absolute;
+                    top: 5px;
+                    left: 3px;
+            }
+            
+            #p p {
+                
+                    position: absolute;
+                    left: 50px;
+                    top: 110px;
+            }
+            
+            #p img {
+                
+                    width: 30px;
+                    height: 30px;
+                    position: absolute;
+                    top: 120px;
+                    
+            }
+            
+            
+            
+            #mp img{
+                
+                    width: 30px;
+                    height: 30px;
+                    position: absolute;
+                    top: 157px;
+                    
+            }
+            
+            #mp p{
+                
+                    position: absolute;
+                    left: 50px;
+                    top: 148px;
+            }
+            
+            #h img {
+                
+                    width: 25px;
+                    height: 25px;
+                    position: absolute;
+                    top: 202px;
+                    left: 3px;
+            }
+            
+            #h p {
+                
+                    position: absolute;
+                    left: 50px;
+                    top: 186px;
+                    width: 300px;
+            }
+            
+            #photo {
+                
+                        width: 150px;
+                        height: 180px;
+                        position: absolute;
+                        top: -19px;
+                        left: 900px;
+                        border:5px solid darksalmon;
+                        border-radius: 10px;
+            }
+
+
+            .container {
+    
+                        position: relative;
+                        top: 0px;
+                        left: 0px;
+                        width: 50%;
+                    
+            }
+
+            .container:hover #photo {
+                
+                        opacity: 0.3;
+            }
+
+
+            .container:hover .middle {
+                
+                        opacity: 1;
+            }
+
+
+            .text {
+                
+                    background-color:cadetblue;
+                    color: white;
+                    font-size: 14px;
+                    font-family: 'Shadows Into Light Two', cursive;
+                    padding: 14px 24px;
+            }
+
+            .middle {
+                
+                    transition: .5s ease;
+                    opacity: 0;
+                    position: absolute;
+                    top: 75px;
+                    left: 1130px;
+                    transform: translate(-50%, -50%);
+                    -ms-transform: translate(-50%, -50%);
+                    text-align: center;
+            }
+            
+            .experience {
+                
+                        font-family: 'Shadows Into Light Two', cursive;
+                        width: 500px;
+                        position: absolute;
+                        top: 480px;
+                        left: 150px;
+            }
+            
+            .experience p {
+                
+                            font-size: 25px;
+                            width: 300px;
+                            position: absolute;
+                            top:-22px;
+                            left: -20px;
+            }
+            
+            .experience dt1 {
+                
+                            color: cadetblue;
+                            font-weight: bold;
+                            position: absolute;
+                            top: 76px;
+            }
+            
+            .experience dd1 {
+                
+                            position: absolute;
+                            top: 96px;
+                            left: 50px;
+                          
+            }
+            
+            .experience dt2 {
+                
+                            position: absolute;
+                            top: 133px;
+                            color: cadetblue;
+                            font-weight: bold;
+                            
+            }
+            
+            .experience dd2 {
+                
+                            position: absolute;
+                            top: 153px;
+                            left: 50px;
+                    
+            }
+            
+            .experience dt3 {
+                
+                            position: absolute;
+                            top: 191px;
+                            color: cadetblue;
+                            font-weight: bold;
+            }
+            
+            .experience dd3 {
+                
+                            position: absolute;
+                            top: 211px;
+                            left: 50px;
+            }
+
+            
+             .collapsible {
+    
+                            
+                            font-size: 25px;
+                            width: 300px;
+                            font-family: 'Shadows Into Light Two', cursive;
+                            color: black;
+                            position: absolute;
+                            top: 18px;
+                            left: -20px;
+                            background-color: antiquewhite;
+                            height: 40px;
+                            cursor: pointer;
+                            border: none;
+                            outline: none;
+            }
+
+            .active, .collapsible:hover {
+    
+                            background-color: darksalmon;
+                        
+            }
+
+            .content {
+    
+                            display: none;
+                            overflow: hidden;
+                
+            }
+            
+            #education {
+                
+                            position: absolute;
+                            top: 750px;
+                            
+            }
+            
+            #education label {
+                    
+                            font-size: 22px;
+                            text-align: center;
+                            width: 300px;
+                            font-weight: bold;
+                            position: absolute;
+                            top: 3px;
+                            left: 0px;
+            }
+            
+            #education dl {
+                
+                            position: absolute;
+                            top: 58px;
+                            width: 500px;
+            }
+           
+            #education dt1 {
+                
+                            position: absolute;
+                            top: 0px;
+                            color: cadetblue;
+                            font-weight: bold;
+            }
+            
+            #education dd1 {
+                
+                            position: absolute;
+                            top: 20px;
+                            left: 50px;
+            }
+            
+            #education dt2 {
+                
+                            position: absolute;
+                            top: 58px;
+                            color: cadetblue;
+                            font-weight: bold;
+            }
+            
+            #education dd2 {
+                
+                            position: absolute;
+                            top: 78px;
+                            left: 50px;
+                            width: 600px;
+            }
+            
+            #skills dl {
+                
+                            font-size: 25px;
+                            font-weight: bold;
+                            position: absolute;
+                            top: -22px;
+                            left: 30px;
+            }
+            
+            #skills dt1 {
+                
+                            position: absolute;
+                            top: 74px;
+                            font-weight: bold;
+                            color: cadetblue;
+            }
+            
+            #skills dd1 {
+                
+                            position: absolute;
+                            top: 75px;
+                            left: 150px;
+            }
+            
+            #skills dt2 {
+                
+                            position: absolute;
+                            top: 113px;
+                            font-weight: bold;
+                            color: cadetblue;
+                
+            }
+            
+            #skills dd2 {
+                
+                            position: absolute;
+                            top: 120px;
+                            left: 50px;
+            }
+            
+            #skills table {
+                
+                            position: absolute;
+                            top: 30px;
+                            border:5px solid darksalmon;
+                            border-radius: 5px;
+                            background-color: aliceblue;
+                            width: 500px;
+                            height: 155px;
+            }
+            
+            #skills th, td {
+                        
+                            border: 1px solid darksalmon;
+                                    
+            }
+            
+            #communication {
+                
+                            position: absolute;
+                            top: 340px;
+            }
+            
+            #communication p {
+                
+                            font-size: 20px;
+                            font-weight: bold;
+            }
+            
+            #communication ul {
+                
+                                position: absolute;
+                                top: 45px;
+                                width: 600px;
+            }
+
+            #infos {
+    
+                                position: absolute;
+                                top: 726px;
+                
+            }
+
+
+            #guitar {
+    
+                                width: 250px;
+                                height: 300px;
+                                position: absolute;
+                                top: 823px;
+                                left: 150px;
+                                border: 5px solid darksalmon;
+                                border-radius: 10px;
+            }
+        
+            
+            #comp {
+                    
+                            position: absolute;
+                            top: 485px;
+                            left: 50px;
+                            margin-bottom: 50px;
+            }
+            
+            #li1 {
+                
+                            position: absolute;
+                            top: 38px;
+            }
+
+
+    
+            #str {
+                
+                            width: 600px;
+                            text-align: center;
+                            padding: 20px;
+                            height: auto;
+                            font-family: sans-serif;
+                            font-size: 40px;
+                            margin: 200px auto;
+                            color: #fff;
+                            font-weight: bold;
+                            background-color:cadetblue;
+            }
+
+
+
+.closebtn {
+    
+    position: absolute;
+    width: 357px;
+    height: 31px;
+    left: 46%;
+    top: 180px;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: flex-end;
+    color: #2D9CDB;
+}
+
+.closebtn:hover, .closebtn:focus {
+    text-decoration: underline;
+    color: black;
+    cursor: pointer;
+}
+
+.modal {
+    
+    display: none;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.modal-content {
+    
+    width: 600px;
+    height: 200px;
+    color: cadetblue;
+    background-color: antiquewhite;
+    opacity: 0.8;
+    animation: modalopen;
+    position: fixed;
+    top: 45%;
+    left: 27%;
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    
+}
